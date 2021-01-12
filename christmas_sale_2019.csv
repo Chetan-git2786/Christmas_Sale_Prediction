@@ -1,0 +1,50 @@
+date,category,count,purchase_price,sale_price,in_stock_eod
+2019-12-19,Games & Puzzles,200,567,1090,3854
+2019-12-20,Games & Puzzles,190,567,1090,3664
+2019-12-21,Games & Puzzles,232,567,1090,3432
+2019-12-22,Games & Puzzles,227,567,1090,3205
+2019-12-23,Games & Puzzles,210,567,1090,2995
+2019-12-24,Games & Puzzles,234,567,1090,2761
+2019-12-25,Games & Puzzles,226,567,1090,2535
+2019-12-19,Education & Construction Toys,146,2450,3990,401
+2019-12-20,Education & Construction Toys,160,2450,3990,241
+2019-12-21,Education & Construction Toys,160,2450,3990,81
+2019-12-22,Education & Construction Toys,81,2450,3990,0
+2019-12-23,Education & Construction Toys,0,2450,3990,0
+2019-12-24,Education & Construction Toys,0,2450,3990,0
+2019-12-25,Education & Construction Toys,0,2450,3990,0
+2019-12-19,Dolls & Fashion,111,1230,1990,931
+2019-12-20,Dolls & Fashion,107,1230,1990,824
+2019-12-21,Dolls & Fashion,114,1230,1990,710
+2019-12-22,Dolls & Fashion,99,1230,1990,611
+2019-12-23,Dolls & Fashion,105,1230,1990,506
+2019-12-24,Dolls & Fashion,109,1230,1990,397
+2019-12-25,Dolls & Fashion,122,1230,1990,275
+2019-12-19,Collectibles & Toy Guns,157,1460,2390,298
+2019-12-20,Collectibles & Toy Guns,168,1460,2390,130
+2019-12-21,Collectibles & Toy Guns,130,1460,2390,0
+2019-12-22,Collectibles & Toy Guns,0,1460,2390,0
+2019-12-23,Collectibles & Toy Guns,0,1460,2390,500
+2019-12-24,Collectibles & Toy Guns,150,1460,2390,350
+2019-12-25,Collectibles & Toy Guns,157,1460,2390,193
+2019-12-19,Books & Magazines,344,670,990,2997
+2019-12-20,Books & Magazines,335,670,990,2662
+2019-12-21,Books & Magazines,318,670,990,2344
+2019-12-22,Books & Magazines,383,670,990,1961
+2019-12-23,Books & Magazines,332,670,990,1629
+2019-12-24,Books & Magazines,355,670,990,1274
+2019-12-25,Books & Magazines,398,670,990,876
+2019-12-19,"Vehicles, Tracksets & Remote Control Toys",133,4150,5900,8
+2019-12-20,"Vehicles, Tracksets & Remote Control Toys",8,4150,5900,0
+2019-12-21,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,0
+2019-12-22,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,0
+2019-12-23,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,0
+2019-12-24,"Vehicles, Tracksets & Remote Control Toys",0,4150,5900,200
+2019-12-25,"Vehicles, Tracksets & Remote Control Toys",138,4150,5900,62
+2019-12-19,New Gen Toys,18,5400,10990,165
+2019-12-20,New Gen Toys,19,5400,10990,146
+2019-12-21,New Gen Toys,20,5400,10990,126
+2019-12-22,New Gen Toys,19,5400,10990,107
+2019-12-23,New Gen Toys,22,5400,10990,85
+2019-12-24,New Gen Toys,19,5400,10990,66
+2019-12-25,New Gen Toys,19,5400,10990,47
