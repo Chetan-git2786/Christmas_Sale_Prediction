@@ -3,6 +3,7 @@
 **Details about the project** :
 
 This project was done with the objective to predict whether the store remains to be opened/closed on the eve of current year Christmas Sale based on the profit/Loss to be incurred by the store owners. With the availability of the data pertaining to the previous years Transactions ,we could predict whether we could gain profit or loss by using the python libraries .
+
 ![enter image description here](https://github.com/Chetan-git2786/Christmas_Sale_Prediction/blob/main/Christmas_Sale.jpg?raw=true)![enter image description here](https://github.com/Chetan-git2786/Christmas_Sale_Prediction/blob/main/Christmas_Sale_pic6.jpg?raw=true)
 ![enter image description here](https://github.com/Chetan-git2786/Christmas_Sale_Prediction/blob/main/Christmas_Sale_pic17.jpg?raw=true)
 
